@@ -14,8 +14,8 @@
 body {
     margin: 0%;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(/img-Sobre/Cópia\ de\ .img-grupo\ \(1850\ x\ 3600\ px\).png);
-    height: 3500px;
+    background-image: url(/img-Sobre/img-porto\ \(2400\ x4100\ \ px\).png);
+    height: 3600px;
     background-repeat: no-repeat;
     /*background-color: black;*/
 }
@@ -194,7 +194,7 @@ h2 {
         height: auto;
         display: block;
         margin: 0 auto;
-        margin-top: 500px;
+        margin-top: 50px;
     }
 
     .img-grupo2 img {
